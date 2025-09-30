@@ -1,4 +1,4 @@
-Hello World !! 👋
+<b>Hello World !! 👋</b>
 
 - 🏫 I’m currently study at National Development University Veteran Yogyakarta.
 - 🌱 I’m currently learning Data Science
